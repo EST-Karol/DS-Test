@@ -29,77 +29,82 @@ EST Design System repository will include standards, design principles and guide
 * [About](#about)
 
 #### Design Guidelines
-   1. UX Principles
-   2. Design Principles
-   3. Typography
-   4. Colours
-   5. Branding
-   6. Imagery
-   7. Page Layouts
-   8. Accessibility
-      1. Standards Overview
-      2. Guidelines
-         1. Web
-         2. Mobile
-         3. Keyboard Interaction
-      3. Patterns
-         1. Menu (?)
-         2. Form (?)
-      4. Testing for Accessibility
+
+1. UX Principles
+1. Design Principles
+1. Typography
+1. Colours
+1. Branding
+1. Imagery
+1. Page Layouts
+1. Accessibility
+   1. Standards Overview
+   1. Guidelines
+      1. Web
+      1. Mobile
+      1. Keyboard Interaction
+   1. Patterns
+      1. Menu (?)
+      1. Form (?)
+   1. Testing for Accessibility
 
 #### Components
-   1. Introduction to Components
-   2. Accordion
-   3. Breadcrumbs
-   4. Button
-   6. Card
-   7. Checkbox
-   8. Date input
-   9. Dialog (Modal ?)
-   10. Dropdown
-   11. Fieldset
-   12. File input
-   13. Footer
-   14. Icon
-   15. Link
-   16. Loading spinner
-   17. Navigation
-   18. Number input
-   19. Pagination
-   20. Password input
-   21. Phone input
+
+1. Introduction to Components
+1. Accordion
+1. Breadcrumbs
+1. Button
+1. Card
+1. Checkbox
+1. Date input
+1. Dialog (Modal ?)
+1. Dropdown
+1. Fieldset
+1. File input
+1. Footer
+1. Icon
+1. Link
+1. Loading spinner
+1. Navigation
+1. Number input
+1. Pagination
+1. Password input
+1. Phone input
 
 #### Patterns
-    1.  Introduction to Patterns
-    2.  Addresses
-    3.  Dates
-    4.  Data visualizations
-        1.  Fundamentals
-        2.  Colours
-    5.  Forms
-    6.  Multistep UI
-    7.  Onboarding
-    8.  Registration
+
+1. Introduction to Patterns
+1. Addresses
+1. Dates
+1. Data visualizations
+   1. Fundamentals
+   1. Colours
+1. Forms
+1. Multistep UI
+1. Onboarding
+1. Registration
 
 #### Utilities
-    1.  Introduction to Utilities
-    2.  Alignment
-    3.  Borders
-    4.  Floats
-    5.  Layout grid
-    6.  Media objects
-    7.  Position
-    8.  Print
-    9.  Sizing
-    10. Spacing
-    11. Visibility
+
+1. Introduction to Utilities
+1. Alignment
+1. Borders
+1. Floats
+1. Layout grid
+1. Media objects
+1. Position
+1. Print
+1. Sizing
+1. Spacing
+1. Visibility
 
 #### About
-    2.  Contact and support
-    3.  What’s new
-    4.  Release notes
-    5.  Archive
-    6.  Tutorials
-    7.  Roadmap
-    8.  How to contribute
-    9.  Helpful resources
+
+1. Contact and support
+1. What’s new
+1. Release notes
+1. Archive
+1. Tutorials
+1. Roadmap
+1. How to contribute
+1. Helpful resources
