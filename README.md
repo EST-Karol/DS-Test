@@ -1,10 +1,10 @@
 # EST Design System
 
-Note: This project is in the proposal stage.
+Note: This project is at the proposal stage.
 
 ### What
 
-EST Design System repository will include standards, design principles and guidelines intended to manage digital design at scale at Energy Saving Trust. In addition, the library will contain a set of reusable components, patterns and utilities.
+EST Design System will include standards, design principles and guidelines intended to guide and support digital design at Energy Saving Trust. In addition, the library will contain a set of reusable components, patterns and utilities.
 
 ### Why
 
