@@ -8,8 +8,10 @@ EST Design System repository will contain standards, design principles and guide
 
 ### Why
 
-*
-* Library of reusable components and design resources will help our teams to focus on solving more-complex design problems like user workflows or information usability (rather tweaks of the visual appearance).
+Expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. 
+
+* 
+* Library of reusable components and design resources will help our teams to focus on solving more-complex design problems like user workflows or information usability (rather thanvisual appearance tweaks).
 * UI components will give our software immediate and mature visual layer
 * help people to showcase their
 * To enable rapid reuse to
