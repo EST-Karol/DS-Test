@@ -15,9 +15,7 @@ Design System will provide a lot of significant benefits:
 * Library of reusable components and design resources will help our teams to focus on solving more-complex design problems (like user workflows or information usability rather than basic visual tweaks).
 * Centralised design resource will improve shared learning, collaboration and consistency.
 * Unified design language will improve alignment between crossfunctional teams. 
-* Robust visual layer  
-* Ready  
-* UI components will give our software immediate and mature visual layer
+* Component library will provide immediate and robust visual layer for software and data projects. 
 * help people to showcase their
 * To enable rapid reuse to
 * Design (and development) work can be created and replicated quickly and at scale.
