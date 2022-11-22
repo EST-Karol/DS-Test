@@ -4,7 +4,7 @@ Note: This project is at the proposal stage.
 
 ### What
 
-EST Design System repository will contain standards, design principles and guidelines set out to support and promote digital design at Energy Saving Trust. In addition, the library will include an array of reusable components, patterns and utilities.
+EST Design System repository will contain standards, design principles and guidelines in support of digital design at Energy Saving Trust. In addition, the library will include an array of reusable components, patterns and utilities.
 
 ### Why
 
