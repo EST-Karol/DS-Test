@@ -8,10 +8,15 @@ EST Design System repository will contain standards, design principles and guide
 
 ### Why
 
-Expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. Teams and collegues will be able to leverage EST Design System to manage and accelerate design at scale. 
+Expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. Teams and collegues will be able to leverage EST Design System to manage and accelerate design initiatives at scale. 
 
-* 
-* Library of reusable components and design resources will help our teams to focus on solving more-complex design problems like user workflows or information usability (rather thanvisual appearance tweaks).
+Design System will provide a lot of significant benefits:
+
+* Library of reusable components and design resources will help our teams to focus on solving more-complex design problems (like user workflows or information usability rather than basic visual tweaks).
+* Centralised design resource will improve shared learning, collaboration and consistency.
+* Unified design language will improve alignment between crossfunctional teams. 
+* Robust visual layer  
+* Ready  
 * UI components will give our software immediate and mature visual layer
 * help people to showcase their
 * To enable rapid reuse to
