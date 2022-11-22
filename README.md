@@ -13,11 +13,10 @@ Expanding catalogue of online tools, websites and services combined with rapid g
 Design System will provide a lot of benefits:
 
 * Library of reusable components and design resources will help our teams to focus on solving more-complex design problems (like user workflows or information usability rather than basic visual tweaks).
-* Centralised design resource will improve shared learning, collaboration and consistency.
-* Centralised design resource will act as a knowledge platform. Codified product knowledge, discoveries and best practicises will be shared.
+* Centralised design resource will act as a knowledge platform. Codified product knowledge, discoveries and best practicises will be shared and widely available.
 * Unified design language will improve alignment between crossfunctional teams. 
-* Component library will provide immediate and robust visual layer for software and data projects. 
-* Improved understanding of EST Brand Guidelines collaboration and consistency. 
+* Component library will provide immediate and robust visual layer for wide range of software and data projects (or experiments). 
+* Design System will improve understanding and usage consistency of the EST Brand. 
 * help people to showcase their
 * To enable rapid reuse to
 * Design (and development) work can be created and replicated quickly and at scale.
