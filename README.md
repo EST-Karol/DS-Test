@@ -15,15 +15,9 @@ Design System will provide a lot of benefits:
 * Centralised design resource will act as a knowledge platform. Product knowledge, UX discoveries and best practicises will be codified and widely available.
 * Library of reusable components and design resources will help our teams to focus on solving more-complex design problems (like user workflows or information usability rather than spend time on basic visual tweaks).
 * Component library will provide robust and instantly available visual layer for many software and data projects or experiments. 
-* Refined UI patterns and usage examples will promote understanding and usage consistency of the EST Brand Guidelines. 
+* Showcasing UI patterns and usage examples will promote understanding and usage consistency of the EST Brand Guidelines. 
 * Unified design language will improve collaboration between teams. 
-* Centralized  components will reduce  
-
-* help people to showcase their
-* To enable rapid reuse to
-* Design (and development) work can be created and replicated quickly and at scale.
-* Design (and development) work can be created and replicated quickly and at scale.
-
+* Centralized store of Lego-like components will reduce redundancy and overall costs of development work.   
 
 
 ### Content (proposed structure)
