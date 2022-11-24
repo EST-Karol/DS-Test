@@ -20,7 +20,7 @@ Design System will provide a lot of benefits:
 * Centralized store of Lego-like components will reduce redundancy and overall costs of development work.   
 
 
-### Content (proposed structure)
+## Content (proposed structure)
 
 #### Main sections (top navigation):
 * Homepage
