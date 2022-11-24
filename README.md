@@ -8,7 +8,7 @@ EST Design System repository will contain standards, design principles and guide
 
 ### Why
 
-With expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. Teams and collegues will be able to leverage EST Design System to manage and accelerate design initiatives at scale. 
+With expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. Teams and collegues will be able to leverage EST Design System to manage and accelerate variety of design initiatives at scale. 
 
 Design System will provide a lot of benefits:
 
