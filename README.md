@@ -10,7 +10,7 @@ EST Design System repository will contain standards, design principles and guide
 
 With expanding catalogue of online tools, websites and services combined with rapid growth of our digital efforts comes a need to coordinate and streamline our design work. Teams and collegues will be able to leverage EST Design System to manage and accelerate variety of design initiatives at scale. 
 
-Design System will provide a lot of benefits:
+Design System will provide other benefits:
 
 * Centralised design resource will act as a knowledge platform. Product knowledge, UX discoveries and best practicises will be codified and widely available.
 * Library of reusable components and design resources will help our teams to focus on solving more-complex design problems (like user workflows or information usability rather than spend time on basic visual tweaks).
